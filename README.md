@@ -92,20 +92,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michal Sakáč" height="30" width="40" />
   </a>
 
+  <a href="https://www.facebook.com/seky739" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seky739" height="30" width="40" />
+  </a>
 </p>
 
-
-<!--
-
-
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aloisseckar&theme=highcontrast" alt="aloisseckar" /></p>
-<p><a href="(https://nuxters.nuxt.com/AloisSeckar"><img src="https://nuxters.nuxt.com/card/AloisSeckar/og.png" alt="Alois Seckar on Nuxters" width="494" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aloisseckar&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="aloisseckar" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=aloisseckar&show_icons=true&theme=cobalt&locale=en" alt="aloisseckar" /></p>
-
--->
 
 
 <!--
