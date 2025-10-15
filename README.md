@@ -26,6 +26,21 @@
   <a href="https://github.com/Evolveum/midpoint" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/3866007?s=200&v=4" alt="midpoint" width="40" height="40" style="border-radius:8px;"/>
   </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/jira/0052CC" alt="jira" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/confluence/172B4D" alt="confluence" width="40" height="40"/>
+  </a>
+
+  <a href="https://bestpractical.com/request-tracker" target="_blank" rel="noreferrer">
+    <img src="https://bestpractical.com/favicon.ico" alt="request-tracker" width="40" height="40" style="border-radius:8px; background:#fff;"/>
+  </a>
+
+  <a href="https://www.openldap.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/1221287?s=200&v=4" alt="openldap" width="40" height="40" style="border-radius:8px;"/>
+  </a>
 
 </p>
 
