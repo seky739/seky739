@@ -41,7 +41,25 @@
   <a href="https://www.openldap.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/1221287?s=200&v=4" alt="openldap" width="40" height="40" style="border-radius:8px;"/>
   </a>
+ <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="intellij idea" width="40" height="40"/>
+  </a>
 
+  <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="datagrip" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" alt="clion" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="phpstorm" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="pycharm" width="40" height="40"/>
+  </a>
 </p>
 
 
