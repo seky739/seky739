@@ -84,24 +84,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://bsky.app/profile/alois-seckar.cz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="alois.seckar" height="30" width="35" /></a>&nbsp;
-<a href="https://dev.to/aloisseckar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aloisseckar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alois-seckar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alois-seckar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3204544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3204544" height="30" width="40" /></a>
-<a href="https://fb.com/alois.seckar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alois.seckar" height="30" width="40" /></a>
+ <a href="https://github.com/seky739" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="seky739" height="30" width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/michal-sak%C3%A1%C4%8D-70b06a159/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michal Sakáč" height="30" width="40" />
+  </a>
+
 </p>
 
 
 <!--
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://bsky.app/profile/alois-seckar.cz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="alois.seckar" height="30" width="35" /></a>&nbsp;
-<a href="https://dev.to/aloisseckar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aloisseckar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alois-seckar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alois-seckar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3204544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3204544" height="30" width="40" /></a>
-<a href="https://fb.com/alois.seckar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alois.seckar" height="30" width="40" /></a>
-</p>
 
 
 
