@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h3 align="center">IT System administrator ZCU(University of West Bohemia in Pilsen)</h3>
+<h3 align="center">System administrator and application administrator Atos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seky739&label=Profile%20views&color=38b2ac&style=flat" alt="seky739" /> </p>
 
