@@ -13,8 +13,8 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </a>
-  <a href="https://www.alfresco.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/366839?s=200&v=4" alt="alfresco" width="40" height="40"/>
+<a href="https://www.alfresco.com/" target="_blank" rel="noreferrer" style="display:inline-block; width:40px; height:40px; border-radius:50%; overflow:hidden; background:#ffffff;">
+  <img src="https://cdn.simpleicons.org/alfresco" alt="alfresco" style="width:70%; height:70%; object-fit:contain; display:block; margin:auto;"/>
 </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
