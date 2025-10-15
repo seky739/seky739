@@ -19,8 +19,14 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a> 
+   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/Evolveum/midpoint" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/3866007?s=200&v=4" alt="midpoint" width="40" height="40" style="border-radius:8px;"/>
+  </a>
+
 </p>
 
 
