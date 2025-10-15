@@ -72,7 +72,13 @@
   <a href="https://common-lisp.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lisp/lisp-original.svg" alt="lisp" width="40" height="40"/>
   </a>
+ <a href="https://puppet.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/puppet/FFAE00" alt="puppet" width="40" height="40"/>
+  </a>
 
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/ansible/EE0000" alt="ansible" width="40" height="40"/>
+  </a>
 </p>
 
 
