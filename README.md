@@ -96,6 +96,15 @@
   <img src="https://evolveum.com/wp-content/uploads/midpoint-logo-blue.png" alt="midPoint" width="40" height="40"/>
 </a>
 
+<a href="https://www.alfresco.com/" target="_blank" rel="noreferrer">
+  <img src="https://dl.svgcdn.com/svg/logos/alfresco.svg" alt="alfresco" width="40" height="40"/>
+</a>
+<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/keycloak/4D4D4D" alt="keycloak" width="40" height="40"/>
+</a>
+<a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="argocd" width="40" height="40"/>
+</a>
 
   
 </p>
