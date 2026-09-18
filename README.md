@@ -106,6 +106,10 @@
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="argocd" width="40" height="40"/>
 </a>
 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="vs code" width="40" height="40"/>
+</a>
+
   
 </p>
 
