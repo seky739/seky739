@@ -80,6 +80,21 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/ansible/EE0000" alt="ansible" width="40" height="40"/>
   </a>
+
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" alt="openshift" width="40" height="40"/>
+</a>
+
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="airflow" width="40" height="40"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="kubernetes" width="40" height="40"/>
+</a>
+
+
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
