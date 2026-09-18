@@ -92,6 +92,9 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="kubernetes" width="40" height="40"/>
 </a>
+<a href="https://evolveum.com/midpoint/" target="_blank" rel="noreferrer">
+  <img src="https://evolveum.com/wp-content/uploads/midpoint-logo-blue.png" alt="midPoint" width="40" height="40"/>
+</a>
 
 
   
